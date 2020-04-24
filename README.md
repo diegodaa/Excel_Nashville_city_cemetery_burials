@@ -4,6 +4,10 @@
 
 This was an assigned project at Nashville Software School.  Purpose was to practice pivot tables and charts, using the prompt below.  Performed all the requested analysis below, as well as some additional ones to create the charts for the hypothetical marketing materials.
 
+
+![marketing materials](\assets\burials_by_race_and_decade.png)
+
+
 ## Project 
 
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
