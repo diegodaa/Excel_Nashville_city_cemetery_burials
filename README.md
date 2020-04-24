@@ -5,7 +5,7 @@
 This was an assigned project at Nashville Software School.  Purpose was to practice pivot tables and charts, using the prompt below.  Performed all the requested analysis below, as well as some additional ones to create the charts for the hypothetical marketing materials.
 
 
-![marketing materials](/assets/burials_by_race_and_decade.png)
+![marketing materials](/assets/burials_by_race_and_decade.PNG)
 
 
 ## Project 
